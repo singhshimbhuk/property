@@ -226,3 +226,66 @@ border: 0.125rem solid #FFFFFF;
     left: 7.3%;
 
 }
+
+
+@media (max-width:480px)
+{
+    .rectangle 
+    {
+        position: absolute;
+        width: 36.625rem;
+        height: 29.375rem;
+        left: 2rem;
+        top: 6.4rem;
+    }
+    .cornerimg img
+    {
+        position: absolute;
+        top: 5.7%;
+    left: 0.3%;
+    height: 5rem;
+    width: 5rem;
+    }
+   h1
+   {
+    position: absolute;
+    width: 53.063rem;
+    height: 6.25rem;
+    left: 6rem;
+    top: 1.4rem;
+    font-size: 2.5rem;
+   }
+   .miniframe 
+   {
+    position: absolute;
+    width: 23.5rem;
+    height: 2.625rem;
+    left: -1.75rem;
+    top: 37.625rem;
+   }
+   hr {
+    position: absolute;
+    width: 35.75rem;
+    height: 0rem;
+    left: 0.25rem;
+    opacity: 1;
+    color: #FFFFFF;
+    top: 41.313rem;
+    border: 0.125rem solid #FFFFFF;
+}
+.content
+{
+    left: 1.25rem;
+    top: 42.813rem;
+}
+.property-details
+{
+    height: 90.5rem;
+    width: 41rem;
+}
+.content2
+{
+    left: 1.25rem;
+    top: 61.188rem;
+}
+}
